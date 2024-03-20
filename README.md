@@ -1,4 +1,4 @@
-# cm (Mobile Communications Course)
+# CM (Mobile Communications Course)
 
 ## Abstract
 
